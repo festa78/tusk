@@ -1,6 +1,7 @@
 # dependencies
 node_modules
 package-json.lock
+package-lock.json
 
 # logs
 *.log
